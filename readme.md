@@ -1,0 +1,9 @@
+- Black: 0,0,0
+- White: 232,232,200
+- Light brown bg: 180,148,120
+- Highlight brown: 88,64,60
+- Column header brown: 124,88,68
+- Pattern highlighted bg: 52,48,44
+- Green text: 68,152,72
+- Yellow text: 252,252,84
+- Red: 125,5,66

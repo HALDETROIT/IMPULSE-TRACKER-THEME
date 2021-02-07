@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SkinColors doc_version="12">
-  <Main_Back>23,24,23</Main_Back>
-  <Main_Font>233,236,57</Main_Font>
-  <Alternate_Main_Back>23,24,23</Alternate_Main_Back>
-  <Alternate_Main_Font>233,236,57</Alternate_Main_Font>
-  <Body_Back>184,158,136</Body_Back>
-  <Body_Font>23,24,23</Body_Font>
-  <Strong_Body_Font>23,24,23</Strong_Body_Font>
-  <Button_Back>23,24,23</Button_Back>
-  <Button_Font>234,235,106</Button_Font>
-  <Button_Highlight_Font>237,238,108</Button_Highlight_Font>
-  <Selected_Button_Back>26,98,9</Selected_Button_Back>
-  <Selected_Button_Font>239,240,109</Selected_Button_Font>
-  <Selection_Back>26,98,9</Selection_Back>
-  <Selection_Font>238,239,109</Selection_Font>
-  <StandBy_Selection_Back>26,98,9</StandBy_Selection_Back>
-  <StandBy_Selection_Font>239,240,109</StandBy_Selection_Font>
-  <Midi_Mapping_Back>26,98,9</Midi_Mapping_Back>
-  <Midi_Mapping_Font>233,236,57</Midi_Mapping_Font>
-  <ToolTip_Back>190,156,130</ToolTip_Back>
-  <ToolTip_Font>233,236,57</ToolTip_Font>
-  <ValueBox_Back>23,24,23</ValueBox_Back>
-  <ValueBox_Font>239,240,109</ValueBox_Font>
-  <ValueBox_Font_Icons>235,242,22</ValueBox_Font_Icons>
-  <Scrollbar>25,25,25</Scrollbar>
-  <Slider>25,25,25</Slider>
-  <Folder>9,9,9</Folder>
-  <Pattern_Default_Back>25,25,25</Pattern_Default_Back>
-  <Pattern_Default_Font>93,153,95</Pattern_Default_Font>
-  <Pattern_Default_Font_Volume>91,154,95</Pattern_Default_Font_Volume>
-  <Pattern_Default_Font_Panning>91,154,95</Pattern_Default_Font_Panning>
-  <Pattern_Default_Font_Pitch>91,154,95</Pattern_Default_Font_Pitch>
-  <Pattern_Default_Font_Delay>91,154,95</Pattern_Default_Font_Delay>
-  <Pattern_Default_Font_Global>91,154,95</Pattern_Default_Font_Global>
-  <Pattern_Default_Font_Other>91,154,95</Pattern_Default_Font_Other>
-  <Pattern_Default_Font_DspFx>91,154,95</Pattern_Default_Font_DspFx>
-  <Pattern_Default_Font_Unused>91,154,95</Pattern_Default_Font_Unused>
-  <Pattern_Highlighted_Back>68,67,66</Pattern_Highlighted_Back>
-  <Pattern_Highlighted_Font>91,154,95</Pattern_Highlighted_Font>
-  <Pattern_Highlighted_Font_Volume>91,154,95</Pattern_Highlighted_Font_Volume>
-  <Pattern_Highlighted_Font_Panning>91,154,95</Pattern_Highlighted_Font_Panning>
+  <Main_Back>0,0,0</Main_Back>
+  <Main_Font>252,252,84</Main_Font>
+  <Alternate_Main_Back>0,0,0</Alternate_Main_Back>
+  <Alternate_Main_Font>252,252,84</Alternate_Main_Font>
+  <Body_Back>180,148,120</Body_Back>
+  <Body_Font>0,0,0</Body_Font>
+  <Strong_Body_Font>0,0,0</Strong_Body_Font>
+  <Button_Back>124,88,68</Button_Back>
+  <Button_Font>232,232,200</Button_Font>
+  <Button_Highlight_Font>252,252,84</Button_Highlight_Font>
+  <Selected_Button_Back>52,48,44</Selected_Button_Back>
+  <Selected_Button_Font>252,252,84</Selected_Button_Font>
+  <Selection_Back>232,232,200</Selection_Back>
+  <Selection_Font>0,0,0</Selection_Font>
+  <StandBy_Selection_Back>232,232,200</StandBy_Selection_Back>
+  <StandBy_Selection_Font>0,0,0</StandBy_Selection_Font>
+  <Midi_Mapping_Back>68,152,72</Midi_Mapping_Back>
+  <Midi_Mapping_Font>252,252,84</Midi_Mapping_Font>
+  <ToolTip_Back>180,148,120</ToolTip_Back>
+  <ToolTip_Font>252,252,84</ToolTip_Font>
+  <ValueBox_Back>0,0,0</ValueBox_Back>
+  <ValueBox_Font>252,252,84</ValueBox_Font>
+  <ValueBox_Font_Icons>252,252,84</ValueBox_Font_Icons>
+  <Scrollbar>0,0,0</Scrollbar>
+  <Slider>0,0,0</Slider>
+  <Folder>0,0,0</Folder>
+  <Pattern_Default_Back>0,0,0</Pattern_Default_Back>
+  <Pattern_Default_Font>68,152,72</Pattern_Default_Font>
+  <Pattern_Default_Font_Volume>68,152,72</Pattern_Default_Font_Volume>
+  <Pattern_Default_Font_Panning>68,152,72</Pattern_Default_Font_Panning>
+  <Pattern_Default_Font_Pitch>68,152,72</Pattern_Default_Font_Pitch>
+  <Pattern_Default_Font_Delay>68,152,72</Pattern_Default_Font_Delay>
+  <Pattern_Default_Font_Global>68,152,72</Pattern_Default_Font_Global>
+  <Pattern_Default_Font_Other>68,152,72</Pattern_Default_Font_Other>
+  <Pattern_Default_Font_DspFx>68,152,72</Pattern_Default_Font_DspFx>
+  <Pattern_Default_Font_Unused>68,152,72</Pattern_Default_Font_Unused>
+  <Pattern_Highlighted_Back>52,48,44</Pattern_Highlighted_Back>
+  <Pattern_Highlighted_Font>68,152,72</Pattern_Highlighted_Font>
+  <Pattern_Highlighted_Font_Volume>68,152,72</Pattern_Highlighted_Font_Volume>
+  <Pattern_Highlighted_Font_Panning>68,152,72</Pattern_Highlighted_Font_Panning>
   <Pattern_Highlighted_Font_Pitch>93,153,94</Pattern_Highlighted_Font_Pitch>
-  <Pattern_Highlighted_Font_Delay>91,154,95</Pattern_Highlighted_Font_Delay>
-  <Pattern_Highlighted_Font_Global>91,154,95</Pattern_Highlighted_Font_Global>
-  <Pattern_Highlighted_Font_Other>91,154,95</Pattern_Highlighted_Font_Other>
-  <Pattern_Highlighted_Font_DspFx>91,154,95</Pattern_Highlighted_Font_DspFx>
-  <Pattern_Highlighted_Font_Unused>91,154,95</Pattern_Highlighted_Font_Unused>
-  <Pattern_PlayPosition_Back>98,85,82</Pattern_PlayPosition_Back>
-  <Pattern_PlayPosition_Font>91,154,95</Pattern_PlayPosition_Font>
-  <Pattern_CenterBar_Back>213,212,179</Pattern_CenterBar_Back>
-  <Pattern_CenterBar_Font>25,25,25</Pattern_CenterBar_Font>
-  <Pattern_CenterBar_Back_StandBy>52,96,22</Pattern_CenterBar_Back_StandBy>
-  <Pattern_CenterBar_Font_StandBy>233,236,57</Pattern_CenterBar_Font_StandBy>
-  <Pattern_Selection>52,96,22</Pattern_Selection>
-  <Pattern_StandBy_Selection>52,96,22</Pattern_StandBy_Selection>
-  <Pattern_Mute_State>232,235,56</Pattern_Mute_State>
-  <Automation_Grid>233,236,57</Automation_Grid>
-  <Automation_Line_Edge>233,236,57</Automation_Line_Edge>
-  <Automation_Line_Fill>233,236,57</Automation_Line_Fill>
-  <Automation_Point>233,236,57</Automation_Point>
-  <Automation_Marker_Play>26,98,9</Automation_Marker_Play>
-  <Automation_Marker_Single>233,236,57</Automation_Marker_Single>
-  <Automation_Marker_Pair>26,98,9</Automation_Marker_Pair>
-  <Automation_Marker_Diamond>233,236,57</Automation_Marker_Diamond>
-  <VuMeter_Meter>55,155,81</VuMeter_Meter>
-  <VuMeter_Meter_Low>239,240,109</VuMeter_Meter_Low>
+  <Pattern_Highlighted_Font_Delay>68,152,72</Pattern_Highlighted_Font_Delay>
+  <Pattern_Highlighted_Font_Global>68,152,72</Pattern_Highlighted_Font_Global>
+  <Pattern_Highlighted_Font_Other>68,152,72</Pattern_Highlighted_Font_Other>
+  <Pattern_Highlighted_Font_DspFx>68,152,72</Pattern_Highlighted_Font_DspFx>
+  <Pattern_Highlighted_Font_Unused>68,152,72</Pattern_Highlighted_Font_Unused>
+  <Pattern_PlayPosition_Back>88,64,60</Pattern_PlayPosition_Back>
+  <Pattern_PlayPosition_Font>68,152,72</Pattern_PlayPosition_Font>
+  <Pattern_CenterBar_Back>88,64,60</Pattern_CenterBar_Back>
+  <Pattern_CenterBar_Font>68,152,72</Pattern_CenterBar_Font>
+  <Pattern_CenterBar_Back_StandBy>68,152,72</Pattern_CenterBar_Back_StandBy>
+  <Pattern_CenterBar_Font_StandBy>252,252,84</Pattern_CenterBar_Font_StandBy>
+  <Pattern_Selection>88,64,60</Pattern_Selection>
+  <Pattern_StandBy_Selection>88,64,60</Pattern_StandBy_Selection>
+  <Pattern_Mute_State>252,252,84</Pattern_Mute_State>
+  <Automation_Grid>252,252,84</Automation_Grid>
+  <Automation_Line_Edge>252,252,84</Automation_Line_Edge>
+  <Automation_Line_Fill>252,252,84</Automation_Line_Fill>
+  <Automation_Point>252,252,84</Automation_Point>
+  <Automation_Marker_Play>68,152,72</Automation_Marker_Play>
+  <Automation_Marker_Single>252,252,84</Automation_Marker_Single>
+  <Automation_Marker_Pair>68,152,72</Automation_Marker_Pair>
+  <Automation_Marker_Diamond>252,252,84</Automation_Marker_Diamond>
+  <VuMeter_Meter>68,152,72</VuMeter_Meter>
+  <VuMeter_Meter_Low>252,252,84</VuMeter_Meter_Low>
   <VuMeter_Meter_Middle>213,214,98</VuMeter_Meter_Middle>
-  <VuMeter_Meter_High>88,36,46</VuMeter_Meter_High>
-  <VuMeter_Peak>81,34,43</VuMeter_Peak>
-  <VuMeter_Back_Normal>91,154,95</VuMeter_Back_Normal>
-  <VuMeter_Back_Clipped>255,23,23</VuMeter_Back_Clipped>
-  <Default_Color_01>255,23,23</Default_Color_01>
+  <VuMeter_Meter_High>125,5,66</VuMeter_Meter_High>
+  <VuMeter_Peak>125,5,66</VuMeter_Peak>
+  <VuMeter_Back_Normal>68,152,72</VuMeter_Back_Normal>
+  <VuMeter_Back_Clipped>125,5,66</VuMeter_Back_Clipped>
+  <Default_Color_01>125,5,66</Default_Color_01>
   <Default_Color_02>153,198,47</Default_Color_02>
   <Default_Color_03>74,255,255</Default_Color_03>
   <Default_Color_04>255,255,23</Default_Color_04>
   <Default_Color_05>120,210,163</Default_Color_05>
-  <Default_Color_06>91,154,95</Default_Color_06>
+  <Default_Color_06>68,152,72</Default_Color_06>
   <Default_Color_07>127,210,128</Default_Color_07>
   <Default_Color_08>255,224,255</Default_Color_08>
   <Default_Color_09>216,167,127</Default_Color_09>
@@ -86,8 +86,8 @@
   <Default_Color_14>162,15,116</Default_Color_14>
   <Default_Color_15>117,216,20</Default_Color_15>
   <Default_Color_16>255,173,251</Default_Color_16>
-  <ButtonBevalAmount>1.0</ButtonBevalAmount>
-  <BodyBevalAmount>1.0</BodyBevalAmount>
+  <ButtonBevalAmount>0.0</ButtonBevalAmount>
+  <BodyBevalAmount>0.0</BodyBevalAmount>
   <ContrastAdjustment>0.0</ContrastAdjustment>
   <TextureSet>Default</TextureSet>
 </SkinColors>
