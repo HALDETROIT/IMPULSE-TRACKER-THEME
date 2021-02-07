@@ -5,5 +5,6 @@
 - Column header brown: 124,88,68
 - Pattern highlighted bg: 52,48,44
 - Green text: 68,152,72
+- Green selected bg: 40,90,12
 - Yellow text: 252,252,84
 - Red: 125,5,66

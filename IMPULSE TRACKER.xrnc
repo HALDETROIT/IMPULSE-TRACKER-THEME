@@ -40,7 +40,7 @@
   <Pattern_Highlighted_Font>68,152,72</Pattern_Highlighted_Font>
   <Pattern_Highlighted_Font_Volume>68,152,72</Pattern_Highlighted_Font_Volume>
   <Pattern_Highlighted_Font_Panning>68,152,72</Pattern_Highlighted_Font_Panning>
-  <Pattern_Highlighted_Font_Pitch>93,153,94</Pattern_Highlighted_Font_Pitch>
+  <Pattern_Highlighted_Font_Pitch>68,152,72</Pattern_Highlighted_Font_Pitch>
   <Pattern_Highlighted_Font_Delay>68,152,72</Pattern_Highlighted_Font_Delay>
   <Pattern_Highlighted_Font_Global>68,152,72</Pattern_Highlighted_Font_Global>
   <Pattern_Highlighted_Font_Other>68,152,72</Pattern_Highlighted_Font_Other>
@@ -52,8 +52,8 @@
   <Pattern_CenterBar_Font>68,152,72</Pattern_CenterBar_Font>
   <Pattern_CenterBar_Back_StandBy>68,152,72</Pattern_CenterBar_Back_StandBy>
   <Pattern_CenterBar_Font_StandBy>252,252,84</Pattern_CenterBar_Font_StandBy>
-  <Pattern_Selection>88,64,60</Pattern_Selection>
-  <Pattern_StandBy_Selection>88,64,60</Pattern_StandBy_Selection>
+  <Pattern_Selection>40,90,12</Pattern_Selection>
+  <Pattern_StandBy_Selection>40,90,12</Pattern_StandBy_Selection>
   <Pattern_Mute_State>252,252,84</Pattern_Mute_State>
   <Automation_Grid>252,252,84</Automation_Grid>
   <Automation_Line_Edge>252,252,84</Automation_Line_Edge>
