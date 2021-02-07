@@ -49,7 +49,7 @@
   <Pattern_PlayPosition_Back>98,85,82</Pattern_PlayPosition_Back>
   <Pattern_PlayPosition_Font>91,154,95</Pattern_PlayPosition_Font>
   <Pattern_CenterBar_Back>213,212,179</Pattern_CenterBar_Back>
-  <Pattern_CenterBar_Font>224,225,214</Pattern_CenterBar_Font>
+  <Pattern_CenterBar_Font>25,25,25</Pattern_CenterBar_Font>
   <Pattern_CenterBar_Back_StandBy>52,96,22</Pattern_CenterBar_Back_StandBy>
   <Pattern_CenterBar_Font_StandBy>233,236,57</Pattern_CenterBar_Font_StandBy>
   <Pattern_Selection>52,96,22</Pattern_Selection>
