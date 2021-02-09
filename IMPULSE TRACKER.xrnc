@@ -23,7 +23,7 @@
   <ValueBox_Back>0,0,0</ValueBox_Back>
   <ValueBox_Font>252,252,84</ValueBox_Font>
   <ValueBox_Font_Icons>252,252,84</ValueBox_Font_Icons>
-  <Scrollbar>0,0,0</Scrollbar>
+  <Scrollbar>88,64,60</Scrollbar>
   <Slider>0,0,0</Slider>
   <Folder>0,0,0</Folder>
   <Pattern_Default_Back>0,0,0</Pattern_Default_Back>
